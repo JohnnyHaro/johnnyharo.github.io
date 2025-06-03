@@ -51,6 +51,9 @@
   margin-left: 1.5rem;
   margin-top: -4rem;
 }
+.contact-image-div {
+  margin-top: -12rem; // 🔼 Lifts the Lottie email animation up
+}
 
 /* Media Query */
 @media (max-width: 1380px), (max-width: 768px) {

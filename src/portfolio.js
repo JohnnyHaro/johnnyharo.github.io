@@ -21,9 +21,9 @@ const illustration = {
 
 const greeting = {
   username: "Johnny Haro",
-  title: "Hi, im Johnny",
+  title: "Hi, im Johnny Haro",
   subTitle: emoji(
-    "A passionate Computer Science student 💻🧪 with experience in programming, tech support, and machine learning. Proficient in Python, Java, and C++, HTML, CSS, and JavaScript. Always exploring AI/ML and software engineering topics/concepts."
+    "A passionate Computer Science 💻🧪 student and aspiring Software Developer with experience in programming, computer repair, and machine learning. Proficient in Python, Java, and C++, HTML, CSS, and JavaScript. Interested in all things STEM and always exploring AI & ML topics/concepts 🤓."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1AiyAtCg1Kqg9kleuHP9k44iVplfBvold/view?usp=sharing", // Set to empty to hide the button
@@ -46,18 +46,18 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "What I do 🤠",
   subTitle:
     "Aspiring Software Engineer exploring AI/ML, IT systems, and full-stack development.",
   skills: [
     emoji(
-      "⚡ Building and debugging using various Programming Languages such as Python, Java, and C++"
+      "💥 Building and debugging using various Programming Languages such as Python, Java, and C++"
     ),
     emoji(
-      "⚡ Developing and maintaining IT systems, including hardware and software support"
+      "💥 Developing and maintaining IT systems, including hardware and software support"
     ),
     emoji(
-      "⚡ Conducting independent research in machine learning using TensorFlow and scikit-learn"
+      "💥 Conducting independent research in machine learning using TensorFlow and scikit-learn"
     )
   ],
 
@@ -84,10 +84,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
     },
     {
       skillName: "sql-database",
@@ -319,7 +315,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Want to discuss a project/opportunity or just say hi? My Inbox is open to everyone.",
   number: "(424) 330-5410",
   email_address: "johnnyharo@gmail.com"
 };
