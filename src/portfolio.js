@@ -47,12 +47,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Aspiring Software Engineer exploring AI/ML, IT systems, and full-stack development.",
+  subTitle:
+    "Aspiring Software Engineer exploring AI/ML, IT systems, and full-stack development.",
   skills: [
     emoji(
       "⚡ Building and debugging using various Programming Languages such as Python, Java, and C++"
     ),
-    emoji("⚡ Developing and maintaining IT systems, including hardware and software support"),
+    emoji(
+      "⚡ Developing and maintaining IT systems, including hardware and software support"
+    ),
     emoji(
       "⚡ Conducting independent research in machine learning using TensorFlow and scikit-learn"
     )
@@ -128,7 +131,7 @@ const educationInfo = {
         "Honor Roll, YMCA Youth and Government, Club Rotario de Latinos Unidos",
       duration: "Sep 2017 – June 2021",
       desc: "Completed all 4 years as an AVID Student and completed both AP Computer Science Principles courses. Recieved diploma in 2021."
-    }    
+    }
   ]
 };
 
