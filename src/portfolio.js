@@ -227,8 +227,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  subtitle: "",
 
   achievementsCards: [
     {
@@ -314,8 +313,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Want to discuss a project/opportunity or just say hi?\n My Inbox is open to everyone.",
+  subtitle: "Want to discuss a project/opportunity or just say hi?",
   number: "(424) 330-5410",
   email_address: "johnnyharo@gmail.com"
 };
